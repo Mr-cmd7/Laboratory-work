@@ -1,0 +1,15 @@
+C:\Users\saall\Desktop\Лабораторные работы по Основам Алгортмизаций\lab 2.1 Log exp\lab 2.1 Log exp\bin\Debug\net6.0\lab 2.1 Log exp.exe
+C:\Users\saall\Desktop\Лабораторные работы по Основам Алгортмизаций\lab 2.1 Log exp\lab 2.1 Log exp\bin\Debug\net6.0\lab 2.1 Log exp.deps.json
+C:\Users\saall\Desktop\Лабораторные работы по Основам Алгортмизаций\lab 2.1 Log exp\lab 2.1 Log exp\bin\Debug\net6.0\lab 2.1 Log exp.runtimeconfig.json
+C:\Users\saall\Desktop\Лабораторные работы по Основам Алгортмизаций\lab 2.1 Log exp\lab 2.1 Log exp\bin\Debug\net6.0\lab 2.1 Log exp.dll
+C:\Users\saall\Desktop\Лабораторные работы по Основам Алгортмизаций\lab 2.1 Log exp\lab 2.1 Log exp\bin\Debug\net6.0\lab 2.1 Log exp.pdb
+C:\Users\saall\Desktop\Лабораторные работы по Основам Алгортмизаций\lab 2.1 Log exp\lab 2.1 Log exp\obj\Debug\net6.0\lab 2.1 Log exp.csproj.AssemblyReference.cache
+C:\Users\saall\Desktop\Лабораторные работы по Основам Алгортмизаций\lab 2.1 Log exp\lab 2.1 Log exp\obj\Debug\net6.0\lab 2.1 Log exp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saall\Desktop\Лабораторные работы по Основам Алгортмизаций\lab 2.1 Log exp\lab 2.1 Log exp\obj\Debug\net6.0\lab 2.1 Log exp.AssemblyInfoInputs.cache
+C:\Users\saall\Desktop\Лабораторные работы по Основам Алгортмизаций\lab 2.1 Log exp\lab 2.1 Log exp\obj\Debug\net6.0\lab 2.1 Log exp.AssemblyInfo.cs
+C:\Users\saall\Desktop\Лабораторные работы по Основам Алгортмизаций\lab 2.1 Log exp\lab 2.1 Log exp\obj\Debug\net6.0\lab 2.1 Log exp.csproj.CoreCompileInputs.cache
+C:\Users\saall\Desktop\Лабораторные работы по Основам Алгортмизаций\lab 2.1 Log exp\lab 2.1 Log exp\obj\Debug\net6.0\lab 2.1 Log exp.dll
+C:\Users\saall\Desktop\Лабораторные работы по Основам Алгортмизаций\lab 2.1 Log exp\lab 2.1 Log exp\obj\Debug\net6.0\refint\lab 2.1 Log exp.dll
+C:\Users\saall\Desktop\Лабораторные работы по Основам Алгортмизаций\lab 2.1 Log exp\lab 2.1 Log exp\obj\Debug\net6.0\lab 2.1 Log exp.pdb
+C:\Users\saall\Desktop\Лабораторные работы по Основам Алгортмизаций\lab 2.1 Log exp\lab 2.1 Log exp\obj\Debug\net6.0\lab 2.1 Log exp.genruntimeconfig.cache
+C:\Users\saall\Desktop\Лабораторные работы по Основам Алгортмизаций\lab 2.1 Log exp\lab 2.1 Log exp\obj\Debug\net6.0\ref\lab 2.1 Log exp.dll

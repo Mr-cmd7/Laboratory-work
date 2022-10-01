@@ -1,0 +1,15 @@
+C:\Users\saall\Desktop\Лабораторные работы по Основам Алгортмизаций\Lab 2.3 Option Selection Operator\Lab 2.3 Option Selection Operator\obj\Debug\net6.0\Lab 2.3 Option Selection Operator.csproj.AssemblyReference.cache
+C:\Users\saall\Desktop\Лабораторные работы по Основам Алгортмизаций\Lab 2.3 Option Selection Operator\Lab 2.3 Option Selection Operator\obj\Debug\net6.0\Lab 2.3 Option Selection Operator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saall\Desktop\Лабораторные работы по Основам Алгортмизаций\Lab 2.3 Option Selection Operator\Lab 2.3 Option Selection Operator\obj\Debug\net6.0\Lab 2.3 Option Selection Operator.AssemblyInfoInputs.cache
+C:\Users\saall\Desktop\Лабораторные работы по Основам Алгортмизаций\Lab 2.3 Option Selection Operator\Lab 2.3 Option Selection Operator\obj\Debug\net6.0\Lab 2.3 Option Selection Operator.AssemblyInfo.cs
+C:\Users\saall\Desktop\Лабораторные работы по Основам Алгортмизаций\Lab 2.3 Option Selection Operator\Lab 2.3 Option Selection Operator\obj\Debug\net6.0\Lab 2.3 Option Selection Operator.csproj.CoreCompileInputs.cache
+C:\Users\saall\Desktop\Лабораторные работы по Основам Алгортмизаций\Lab 2.3 Option Selection Operator\Lab 2.3 Option Selection Operator\bin\Debug\net6.0\Lab 2.3 Option Selection Operator.exe
+C:\Users\saall\Desktop\Лабораторные работы по Основам Алгортмизаций\Lab 2.3 Option Selection Operator\Lab 2.3 Option Selection Operator\bin\Debug\net6.0\Lab 2.3 Option Selection Operator.deps.json
+C:\Users\saall\Desktop\Лабораторные работы по Основам Алгортмизаций\Lab 2.3 Option Selection Operator\Lab 2.3 Option Selection Operator\bin\Debug\net6.0\Lab 2.3 Option Selection Operator.runtimeconfig.json
+C:\Users\saall\Desktop\Лабораторные работы по Основам Алгортмизаций\Lab 2.3 Option Selection Operator\Lab 2.3 Option Selection Operator\bin\Debug\net6.0\Lab 2.3 Option Selection Operator.dll
+C:\Users\saall\Desktop\Лабораторные работы по Основам Алгортмизаций\Lab 2.3 Option Selection Operator\Lab 2.3 Option Selection Operator\bin\Debug\net6.0\Lab 2.3 Option Selection Operator.pdb
+C:\Users\saall\Desktop\Лабораторные работы по Основам Алгортмизаций\Lab 2.3 Option Selection Operator\Lab 2.3 Option Selection Operator\obj\Debug\net6.0\Lab 2.3 Option Selection Operator.dll
+C:\Users\saall\Desktop\Лабораторные работы по Основам Алгортмизаций\Lab 2.3 Option Selection Operator\Lab 2.3 Option Selection Operator\obj\Debug\net6.0\refint\Lab 2.3 Option Selection Operator.dll
+C:\Users\saall\Desktop\Лабораторные работы по Основам Алгортмизаций\Lab 2.3 Option Selection Operator\Lab 2.3 Option Selection Operator\obj\Debug\net6.0\Lab 2.3 Option Selection Operator.pdb
+C:\Users\saall\Desktop\Лабораторные работы по Основам Алгортмизаций\Lab 2.3 Option Selection Operator\Lab 2.3 Option Selection Operator\obj\Debug\net6.0\Lab 2.3 Option Selection Operator.genruntimeconfig.cache
+C:\Users\saall\Desktop\Лабораторные работы по Основам Алгортмизаций\Lab 2.3 Option Selection Operator\Lab 2.3 Option Selection Operator\obj\Debug\net6.0\ref\Lab 2.3 Option Selection Operator.dll

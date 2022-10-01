@@ -1,0 +1,15 @@
+C:\Users\saall\Desktop\Лабораторные работы по Основам Алгортмизаций\lab 2.2 Conditional operators\lab 2.2 Conditional operators\bin\Debug\net6.0\lab 2.2 Conditional operators.exe
+C:\Users\saall\Desktop\Лабораторные работы по Основам Алгортмизаций\lab 2.2 Conditional operators\lab 2.2 Conditional operators\bin\Debug\net6.0\lab 2.2 Conditional operators.deps.json
+C:\Users\saall\Desktop\Лабораторные работы по Основам Алгортмизаций\lab 2.2 Conditional operators\lab 2.2 Conditional operators\bin\Debug\net6.0\lab 2.2 Conditional operators.runtimeconfig.json
+C:\Users\saall\Desktop\Лабораторные работы по Основам Алгортмизаций\lab 2.2 Conditional operators\lab 2.2 Conditional operators\bin\Debug\net6.0\lab 2.2 Conditional operators.dll
+C:\Users\saall\Desktop\Лабораторные работы по Основам Алгортмизаций\lab 2.2 Conditional operators\lab 2.2 Conditional operators\bin\Debug\net6.0\lab 2.2 Conditional operators.pdb
+C:\Users\saall\Desktop\Лабораторные работы по Основам Алгортмизаций\lab 2.2 Conditional operators\lab 2.2 Conditional operators\obj\Debug\net6.0\lab 2.2 Conditional operators.csproj.AssemblyReference.cache
+C:\Users\saall\Desktop\Лабораторные работы по Основам Алгортмизаций\lab 2.2 Conditional operators\lab 2.2 Conditional operators\obj\Debug\net6.0\lab 2.2 Conditional operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saall\Desktop\Лабораторные работы по Основам Алгортмизаций\lab 2.2 Conditional operators\lab 2.2 Conditional operators\obj\Debug\net6.0\lab 2.2 Conditional operators.AssemblyInfoInputs.cache
+C:\Users\saall\Desktop\Лабораторные работы по Основам Алгортмизаций\lab 2.2 Conditional operators\lab 2.2 Conditional operators\obj\Debug\net6.0\lab 2.2 Conditional operators.AssemblyInfo.cs
+C:\Users\saall\Desktop\Лабораторные работы по Основам Алгортмизаций\lab 2.2 Conditional operators\lab 2.2 Conditional operators\obj\Debug\net6.0\lab 2.2 Conditional operators.csproj.CoreCompileInputs.cache
+C:\Users\saall\Desktop\Лабораторные работы по Основам Алгортмизаций\lab 2.2 Conditional operators\lab 2.2 Conditional operators\obj\Debug\net6.0\lab 2.2 Conditional operators.dll
+C:\Users\saall\Desktop\Лабораторные работы по Основам Алгортмизаций\lab 2.2 Conditional operators\lab 2.2 Conditional operators\obj\Debug\net6.0\refint\lab 2.2 Conditional operators.dll
+C:\Users\saall\Desktop\Лабораторные работы по Основам Алгортмизаций\lab 2.2 Conditional operators\lab 2.2 Conditional operators\obj\Debug\net6.0\lab 2.2 Conditional operators.pdb
+C:\Users\saall\Desktop\Лабораторные работы по Основам Алгортмизаций\lab 2.2 Conditional operators\lab 2.2 Conditional operators\obj\Debug\net6.0\lab 2.2 Conditional operators.genruntimeconfig.cache
+C:\Users\saall\Desktop\Лабораторные работы по Основам Алгортмизаций\lab 2.2 Conditional operators\lab 2.2 Conditional operators\obj\Debug\net6.0\ref\lab 2.2 Conditional operators.dll
