@@ -1,0 +1,15 @@
+C:\Users\saall\Desktop\PolymorphismСircle\PolymorphismСircle\obj\Debug\net6.0\PolymorphismСircle.csproj.AssemblyReference.cache
+C:\Users\saall\Desktop\PolymorphismСircle\PolymorphismСircle\obj\Debug\net6.0\PolymorphismСircle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saall\Desktop\PolymorphismСircle\PolymorphismСircle\obj\Debug\net6.0\PolymorphismСircle.AssemblyInfoInputs.cache
+C:\Users\saall\Desktop\PolymorphismСircle\PolymorphismСircle\obj\Debug\net6.0\PolymorphismСircle.AssemblyInfo.cs
+C:\Users\saall\Desktop\PolymorphismСircle\PolymorphismСircle\obj\Debug\net6.0\PolymorphismСircle.csproj.CoreCompileInputs.cache
+C:\Users\saall\Desktop\PolymorphismСircle\PolymorphismСircle\bin\Debug\net6.0\PolymorphismСircle.exe
+C:\Users\saall\Desktop\PolymorphismСircle\PolymorphismСircle\bin\Debug\net6.0\PolymorphismСircle.deps.json
+C:\Users\saall\Desktop\PolymorphismСircle\PolymorphismСircle\bin\Debug\net6.0\PolymorphismСircle.runtimeconfig.json
+C:\Users\saall\Desktop\PolymorphismСircle\PolymorphismСircle\bin\Debug\net6.0\PolymorphismСircle.dll
+C:\Users\saall\Desktop\PolymorphismСircle\PolymorphismСircle\bin\Debug\net6.0\PolymorphismСircle.pdb
+C:\Users\saall\Desktop\PolymorphismСircle\PolymorphismСircle\obj\Debug\net6.0\PolymorphismСircle.dll
+C:\Users\saall\Desktop\PolymorphismСircle\PolymorphismСircle\obj\Debug\net6.0\refint\PolymorphismСircle.dll
+C:\Users\saall\Desktop\PolymorphismСircle\PolymorphismСircle\obj\Debug\net6.0\PolymorphismСircle.pdb
+C:\Users\saall\Desktop\PolymorphismСircle\PolymorphismСircle\obj\Debug\net6.0\PolymorphismСircle.genruntimeconfig.cache
+C:\Users\saall\Desktop\PolymorphismСircle\PolymorphismСircle\obj\Debug\net6.0\ref\PolymorphismСircle.dll
